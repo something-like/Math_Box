@@ -1,4 +1,4 @@
-# Calculator
+# Basic Calculator
 
 
 def add(a, b):
